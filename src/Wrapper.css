@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.flex {
+    display: flex;    
+    justify-content: space-around;
+}
+
+.block__size {
+    width: 20%;
+    height: 30px;
+}
+
+.block_border {
+    border: 2px solid grey;
+}
+
+.block__center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block__margin-top {
+    margin-top: 20px;    
+}
+
+.block__padding-top {
+    padding-top: 10px;
+}
+
+.button {
+    width: 30.5px;
+    height: 30px;
+    margin-right: 9px; 
+     
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.block__size {
+    width: 277px;
+}
